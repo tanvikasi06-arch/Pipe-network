@@ -10,7 +10,7 @@ A steady-state 1D model of a network of pipes, written in Python. Given fixed pr
 
 ## How to run
 
-Open `pipe_model.ipynb` in Jupyter or Google Colab and select **Run all**. Each validation cell ends with `assert` checks, so if every cell runs without an error, every test has passed.
+Open `Pipemodel.ipynb` in Jupyter or Google Colab and select **Run all**. Each validation cell ends with `assert` checks, so if every cell runs without an error, every test has passed.
 
 Requires `numpy` and `scipy`.
 
